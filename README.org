@@ -1,0 +1,10 @@
+* elb-log
+
+ELB log manager.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Rudolph-Miller/elb-log.git   |
+| commit  | c5bec5f  |
+| systems | elb-log |
+|---------+-------------------------------------------|
+
